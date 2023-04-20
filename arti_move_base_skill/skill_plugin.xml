@@ -1,0 +1,9 @@
+<!--suppress XmlUnboundNsPrefix, XmlUnboundNsPrefix -->
+<library path="lib/libarti_move_base_skill">
+  <class name="arti_move_base_skill/MoveBaseSkill" type="arti_move_base_skill::MoveBaseSkill"
+         base_class_type="arti_movement_skill_interface::MovementSkillInterface">
+    <description>
+      Movement skill to use the move base allowing navigation on a plane.
+    </description>
+  </class>
+</library>
